@@ -2,17 +2,17 @@
 - A realtime CRUD chat app
 
 ## Installation
-cd server
+#cd server
 - npm i express nodemon socket.io cors
-cd client
+#cd client
 - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 
 ## Usage
-To run server
+#To run server
 - cd server then npm run start
-To run client
+#To run client
 - cd client then npm run start
-To Connect the Client
+#To Connect the Client
 - go to http://localhost:3000 on a browser
 
 NOTE!
